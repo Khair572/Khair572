@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Anda]
+# 👋 Hi, I'm [HEX]
 
 ### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 
