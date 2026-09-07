@@ -1,4 +1,4 @@
-<h1 align="center">Hai, saya [Nama Kamu] 👋</h1>
+<h1 align="center">Hai, saya [HEX] 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 Tentang Saya
-- 🔭 Saat ini sedang mengerjakan **[nama proyek]**
+- 🔭 Saat ini sedang mengerjakan **[AI]**
 - 🌱 Sedang belajar **[skill/teknologi baru]**
 - 👯 Terbuka untuk kolaborasi di **[bidang/topik]**
 - 💬 Tanya saya soal **[topik keahlian]**
